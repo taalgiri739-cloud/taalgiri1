@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Taad-Giri Premium Palm Candy",
+  "description": "A luxury web experience for Taad-Giri, India\u0027s most authentic and pure Palmyra palm candy (Tal Mishri) from Jharkhand. Highlighting artisanal craftsmanship, dawn harvesting, double laboratory testing, and QR code transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
